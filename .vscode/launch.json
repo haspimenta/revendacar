@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "vscode-edge-devtools.debug",
             "request": "launch",
             "name": "Open index.html",
             "file": "c:\\Users\\hgals\\OneDrive\\Documents\\GitHub\\RevendaCar\\index.html"
